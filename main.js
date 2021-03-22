@@ -90,5 +90,5 @@ client.distube
         `Added \`${playlist.name}\` playlist (${playlist.songs.length} songs) to queue\n${status(queue)}`
     ));
 
-
-client.login ('ODEyMDU1MDEwNjY1MTY4OTA3.YC7LKQ.BnJmbjluT-AFuscGT8RkrM-4KWI')
+// Discord doesn't allow the same token twice, so if anyone wants to test this out, they will need to generate a new token
+client.login ('')
