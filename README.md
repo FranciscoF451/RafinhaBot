@@ -1,2 +1,5 @@
 # RafinhaBot
-Bot de Discord 
+Este projeto teve inicio quando alguns amigos tiveram a ideia de criar um bot de Discord para substituir parcialmente um amigo nosso de forma a matar as saudades existentes, visto que ele anda ausente devido á universidade. Então eu tomei a iniciativa de começar a programar, precisei da ajuda de um amigo no inicio porque eu nunca tinha programado com o node.js. Graças a este projeto aprendi o básico de javascript como também criar um bot capaz de: dizer as piadas icónicas do nosso amigo; responder a perguntas e também "cantar" (através do youtube). Este bot consegue estar online 24/7 graças ao serviço de hosting da Heroku.
+
+
+This project started when some of my friends had the idea of making a Discord bot to partially replace a friend of ours that has gone missing due to college. So I took the initiative and started coding, I had the help of one of my friends at first because I never programmed with node.js. Thanks to this project, I learned the basics of javascript while making a bot capable of: telling his iconic joke; answering questions and also "sing" (by playing music from youtube). This bot is online 24/7 all thank to Heroku's hosting service.
